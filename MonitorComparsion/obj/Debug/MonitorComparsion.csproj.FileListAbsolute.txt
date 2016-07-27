@@ -1,0 +1,8 @@
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\bin\Debug\MonitorComparsion.exe.config
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\bin\Debug\MonitorComparsion.exe
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\bin\Debug\MonitorComparsion.pdb
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\bin\Debug\MonitorItem.dll
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\bin\Debug\MonitorItem.pdb
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\obj\Debug\MonitorComparsion.csprojResolveAssemblyReference.cache
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\obj\Debug\MonitorComparsion.exe
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorComparsion\obj\Debug\MonitorComparsion.pdb

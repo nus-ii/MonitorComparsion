@@ -1,0 +1,4 @@
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorItem\bin\Debug\MonitorItem.dll
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorItem\bin\Debug\MonitorItem.pdb
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorItem\obj\Debug\MonitorItem.dll
+C:\GitHub\MonitorComparsion\MonitorComparsion\MonitorItem\obj\Debug\MonitorItem.pdb
